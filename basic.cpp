@@ -5,5 +5,6 @@ int main()
 {
 cout<<"Basic commands";
 cout<<"hello world";
+cout<<"welcome to cummins";
 return 0;
 }
